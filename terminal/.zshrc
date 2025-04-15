@@ -1,6 +1,6 @@
 ############################## CONFIG
 # nvim editor
-export VISUAL=/usr/bin/nvim
+export VISUAL=/usr/bin/vim
 
 # autoload
 autoload -U compinit
