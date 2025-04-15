@@ -1,8 +1,4 @@
 return {
   "nvim-lualine/lualine.nvim",
-  opts = {
-    sections = {
-      lualine_z = {},
-    },
-  },
+  dependencies = { "nvim-tree/nvim-web-devicons" },
 }
