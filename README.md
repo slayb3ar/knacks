@@ -12,3 +12,21 @@ To symlink content,
 ## Terminal
 
 1. Import `tokyo_night.terminal`
+2. Copy zshrc `cp /knacks/terminal/.zshrc ~/.zshrc && source ~/.zshrc`
+
+
+
+## Setup
+# setup repo
+`Git clone repo`
+
+# install 
+`brew install tmux`
+`brew install vim`
+
+# fonts
+`download font && copy /system/fonts/
+
+# symlink
+`ln -s PWD/config/* ~/.config/`
+

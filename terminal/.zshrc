@@ -1,5 +1,10 @@
 ############################## CONFIG
+# nvim editor
 export VISUAL=/usr/bin/nvim
+
+# autoload
+autoload -U compinit
+compinit
 
 ############################## UI
 export TERM=xterm-256color
