@@ -29,7 +29,6 @@ To symlink content,
 
 `download font && copy /system/fonts/
 
-
 # symlink
 
 `ln -s PWD/config/* ~/.config/`
@@ -38,3 +37,6 @@ To symlink content,
 
 `brew install lazygit`
 `brew install fd`
+`brew install ripgrep`
+
+`brew install fzf``
