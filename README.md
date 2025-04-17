@@ -23,11 +23,12 @@ To symlink content,
 # install
 
 `brew install tmux`
-`brew install vim`
+`brew install nvim`
 
 # fonts
 
 `download font && copy /system/fonts/
+
 
 # symlink
 
@@ -36,3 +37,4 @@ To symlink content,
 #
 
 `brew install lazygit`
+`brew install fd`
